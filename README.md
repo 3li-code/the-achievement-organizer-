@@ -1,4 +1,4 @@
-# 💎 The Emerald Tracker | Time Tracker App 💎
+# 💎 The Emerald Tracker | the achievement organizer App 💎
 
 **Intelligent Time and Task Management with an Elegant User Interface.**
 
