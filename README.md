@@ -31,11 +31,11 @@ This project is a comprehensive time-tracking application built using Flutter an
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Insert your repository URL here]
+    git clone [(https://github.com/3li-code/the-achievement-organizer-/tree/main)]
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd time_tracker
+    cd the-achievement-organizer
     ```
 3.  **Get dependencies:**
     ```bash
